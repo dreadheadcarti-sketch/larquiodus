@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: radial-gradient(circle at top, #1a1440, #0b0f17);
+  color: white;
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+  background: rgba(255,255,255,0.05);
+}
+
+.container {
+  padding: 20px;
+}
+
+.card {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+  background: #7c3aed;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
